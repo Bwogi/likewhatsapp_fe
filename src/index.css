@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .customh1 {
+    @apply text-orange-300 bg-gray-400;
+  }
+}
