@@ -1,3 +1,20 @@
+# Let's add tailwind css
+
+Let's setup tailwind css with our react app.
+
+## Objectifs
+
+- Let's install tailwind css.
+
+- Explain it a little bit.
+
+- Explain few concepts we will use and need.
+
+## Packages we will use
+
+**tailwindcss:** <br/>[![tailwindcss](https://img.shields.io/npm/v/tailwindcss.svg?logo=tailwindcss)](https://www.npmjs.com/package/tailwindcss)
+<br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
