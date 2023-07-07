@@ -25,7 +25,7 @@ Let's setup redux toolkit and persist data
 
 Let's setup tailwind css with our react app.
 
-## Objectifs
+## Objectives
 
 - Let's install tailwind css.
 
