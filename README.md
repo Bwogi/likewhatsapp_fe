@@ -1,3 +1,25 @@
+# Redux Toolkit
+
+Let's setup redux toolkit and persist data
+
+## Objectives
+
+- Create a global redux store.
+
+- Create user slice.
+
+- Explain how to dispatch actions.
+
+- Add redux persist to keep data saved after refresh.
+
+## Packages we will use
+
+**@reduxjs/toolkit:**
+**react-redux:**
+**redux-persist:**
+
+---
+
 # Let's add tailwind css
 
 Let's setup tailwind css with our react app.
