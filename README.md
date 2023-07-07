@@ -17,6 +17,7 @@ Let's setup redux toolkit and persist data
 **@reduxjs/toolkit:**
 **react-redux:**
 **redux-persist:**
+**redux-persist-transform-filter:**
 
 ---
 
